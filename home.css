@@ -1,0 +1,173 @@
+#wrapper
+{
+	width: 1000px;
+	height:800px;
+	background-color:red;
+	margin-left:auto;
+	margin-right: auto;
+	
+
+}
+#uheader
+{
+	 width:1000px;
+	 height:200px;
+	 background-color:yellow;
+	 background-image: url(final.png);
+    
+
+}
+#lower
+{
+	width:1000;
+    box-sizing:border box1;
+	height:400;
+	background-color: blue;
+
+
+}
+#left
+{
+	width: 200;
+	height:400;
+	background-color:white;
+	float: left;
+}
+
+#sign
+{
+	width: 200;
+	height:150;
+	background-color:#53d5f6;
+	float: left;
+	border-radius: 10px;
+	
+
+	
+}
+#box
+{
+	  width:200;
+	  height:180;
+	  background-color:#53d5f6;
+	  float: left;
+	  border-radius: 10px;
+}
+
+#box1
+{
+	width: 200;
+	height:280;
+	background-color:#53d5f6;
+	float: left;
+	border-radius: 10px;
+
+}
+
+
+
+#right
+{
+	width: 800;
+	height: 630;
+	background-color: grey;
+	border-radius: 10px;
+	float: left;
+
+
+}
+
+
+
+
+#description
+{
+	width: 800;
+	height: 240;
+	background-color: white;
+	 border-radius: 8px;
+	 font-family:
+
+}
+
+
+
+
+
+
+
+body
+{
+        background-color: white;
+        background-image: url(color.jpg);
+}
+
+#size
+{
+	width: 10em;
+	height: 2em;
+	background: #828282;
+    padding: 5px 10px;
+    color: #fff;
+    border: 0;
+    border-radius: 10px;
+    cursor: pointer;
+	padding: 1px 6px;
+
+}
+#size1
+{
+	width: 7em;
+	height: 2em;
+	background: #828282;
+    padding: 5px 10px;
+    color: #fff;
+    border: 0;
+    border-radius: 10px;
+    cursor: pointer;
+    padding: 1px 6px;
+}
+
+
+
+
+
+#menu {
+    width: 800px;
+    height: 40px;
+    font-size: 16px;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    text-shadow: 8px 5px 5px #333333;
+    background-color: #8AD9FF;
+    border-radius: 8px;
+}
+
+#menu ul {
+    height: auto;
+    padding: 8px 0px;
+    margin: 0px;
+}
+
+#menu li { 
+display: inline; 
+padding: 20px; 
+}
+
+#menu a {
+    text-decoration: none;
+    color: #00F;
+    padding: 8px 8px 8px 8px;
+}
+ 
+#menu a:hover {
+    color: #F90;
+    background-color: #FFF;
+}
+
+
+h4{
+	color: brown;
+	font-family:'Lato', sans-serif;
+}
